@@ -1,0 +1,220 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BasketView"
+provides-nominal:
+- "12mcquick_clip10BasketViewC"
+provides-member:
+- ["12mcquick_clip10BasketViewC", ""]
+provides-dynamic-lookup:
+- "btnBasket"
+- "clkBasket"
+depends-top-level:
+- "BasketView"
+- "UIButton"
+- "UIView"
+depends-member:
+- ["12mcquick_clip10BasketViewC", "UIButton"]
+- ["12mcquick_clip10BasketViewC", ""]
+- ["12mcquick_clip10BasketViewC", "btnBasket"]
+- ["12mcquick_clip10BasketViewC", "clkBasket"]
+- ["12mcquick_clip10BasketViewC", "deinit"]
+- ["12mcquick_clip10BasketViewC", "init"]
+- ["SK", ""]
+- ["So15CALayerDelegateP", "UIButton"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "btnBasket"]
+- ["So15CALayerDelegateP", "clkBasket"]
+- ["So15CALayerDelegateP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "clkBasket"]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "clkBasket"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "clkBasket"]
+- ["SQ", ""]
+- !private ["SQ", "clkBasket"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- !private ["SH", "clkBasket"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "UIButton"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "btnBasket"]
+- ["So8NSCodingP", "clkBasket"]
+- ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "btnBasket"]
+- ["So8NSObjectC", "clkBasket"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectP", "UIButton"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "btnBasket"]
+- ["So8NSObjectP", "clkBasket"]
+- ["So8NSObjectP", "init"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- ["So29UIAccessibilityIdentificationP", "UIButton"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "btnBasket"]
+- ["So29UIAccessibilityIdentificationP", "clkBasket"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So12UIAppearanceP", "UIButton"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "btnBasket"]
+- ["So12UIAppearanceP", "clkBasket"]
+- ["So12UIAppearanceP", "init"]
+- ["So21UIAppearanceContainerP", "UIButton"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "btnBasket"]
+- ["So21UIAppearanceContainerP", "clkBasket"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So17UICoordinateSpaceP", "UIButton"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "btnBasket"]
+- ["So17UICoordinateSpaceP", "clkBasket"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So13UIDynamicItemP", "UIButton"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "btnBasket"]
+- ["So13UIDynamicItemP", "clkBasket"]
+- ["So13UIDynamicItemP", "init"]
+- ["So18UIFocusEnvironmentP", "UIButton"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "btnBasket"]
+- ["So18UIFocusEnvironmentP", "clkBasket"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So11UIFocusItemP", "UIButton"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "btnBasket"]
+- ["So11UIFocusItemP", "clkBasket"]
+- ["So11UIFocusItemP", "init"]
+- ["So20UIFocusItemContainerP", "UIButton"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "btnBasket"]
+- ["So20UIFocusItemContainerP", "clkBasket"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So24UILargeContentViewerItemP", "UIButton"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "btnBasket"]
+- ["So24UILargeContentViewerItemP", "clkBasket"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "btnBasket"]
+- ["So30UIPasteConfigurationSupportingP", "clkBasket"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "btnBasket"]
+- ["So11UIResponderC", "clkBasket"]
+- ["So11UIResponderC", "init"]
+- ["So30UIResponderStandardEditActionsP", "UIButton"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "btnBasket"]
+- ["So30UIResponderStandardEditActionsP", "clkBasket"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So18UITraitEnvironmentP", "UIButton"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "btnBasket"]
+- ["So18UITraitEnvironmentP", "clkBasket"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So23UIUserActivityRestoringP", "UIButton"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "btnBasket"]
+- ["So23UIUserActivityRestoringP", "clkBasket"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So6UIViewC", "UIButton"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "btnBasket"]
+- ["So6UIViewC", "clkBasket"]
+- ["So6UIViewC", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clkBasket"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clkBasket"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "clkBasket"]
+depends-nominal:
+- "12mcquick_clip10BasketViewC"
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/usr/include/Darwin.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c6baaa350ecdba52bf7c7c89008d30ae"

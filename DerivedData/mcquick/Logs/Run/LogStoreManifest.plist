@@ -5,6 +5,551 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1BA51EB8-67CF-4C62-9B06-E9ED9C95313F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1BA51EB8-67CF-4C62-9B06-E9ED9C95313F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496780.65342605</real>
+			<key>timeStoppedRecording</key>
+			<real>624496819.58447897</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>1BA51EB8-67CF-4C62-9B06-E9ED9C95313F</string>
+		</dict>
+		<key>31C02F33-4410-4775-B830-28DD9E8C497E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>31C02F33-4410-4775-B830-28DD9E8C497E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496751.024845</real>
+			<key>timeStoppedRecording</key>
+			<real>624496780.05761003</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>31C02F33-4410-4775-B830-28DD9E8C497E</string>
+		</dict>
+		<key>33B06E49-A05E-4B81-804D-0D87E6E1D9D7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>33B06E49-A05E-4B81-804D-0D87E6E1D9D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624488042.22000098</real>
+			<key>timeStoppedRecording</key>
+			<real>624488107.93834805</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>33B06E49-A05E-4B81-804D-0D87E6E1D9D7</string>
+		</dict>
+		<key>3B5A0742-3DD9-44F2-A09E-CCEB300AC1A1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3B5A0742-3DD9-44F2-A09E-CCEB300AC1A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496608.62637806</real>
+			<key>timeStoppedRecording</key>
+			<real>624496695.54390204</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>3B5A0742-3DD9-44F2-A09E-CCEB300AC1A1</string>
+		</dict>
+		<key>4FB4151A-3BCF-4754-BFDE-0DE4EA097C9D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4FB4151A-3BCF-4754-BFDE-0DE4EA097C9D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496028.56730902</real>
+			<key>timeStoppedRecording</key>
+			<real>624496128.09591997</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>4FB4151A-3BCF-4754-BFDE-0DE4EA097C9D</string>
+		</dict>
+		<key>974AF6EA-9B8B-4D36-8C5A-BE60CA90A016</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>974AF6EA-9B8B-4D36-8C5A-BE60CA90A016.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496933.10694003</real>
+			<key>timeStoppedRecording</key>
+			<real>624496947.58613396</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>974AF6EA-9B8B-4D36-8C5A-BE60CA90A016</string>
+		</dict>
+		<key>9E2AA987-03C4-49D4-A784-BAECF7D3F3FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9E2AA987-03C4-49D4-A784-BAECF7D3F3FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496890.22423899</real>
+			<key>timeStoppedRecording</key>
+			<real>624496931.89894199</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>9E2AA987-03C4-49D4-A784-BAECF7D3F3FD</string>
+		</dict>
+		<key>C055F9BB-FA0B-43E8-93B7-3AA73BCE9F61</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C055F9BB-FA0B-43E8-93B7-3AA73BCE9F61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496175.79575801</real>
+			<key>timeStoppedRecording</key>
+			<real>624496190.72067904</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>C055F9BB-FA0B-43E8-93B7-3AA73BCE9F61</string>
+		</dict>
+		<key>C4268D82-60D9-44EF-B706-12B117870506</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C4268D82-60D9-44EF-B706-12B117870506.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496131.640481</real>
+			<key>timeStoppedRecording</key>
+			<real>624496175.65490198</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>C4268D82-60D9-44EF-B706-12B117870506</string>
+		</dict>
+		<key>CD1AD9A6-D33A-4E84-A357-C1BC0F4D667A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CD1AD9A6-D33A-4E84-A357-C1BC0F4D667A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496821.00534296</real>
+			<key>timeStoppedRecording</key>
+			<real>624496888.97132099</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>CD1AD9A6-D33A-4E84-A357-C1BC0F4D667A</string>
+		</dict>
+		<key>CD307D84-0115-4880-9929-D534191DB3E2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CD307D84-0115-4880-9929-D534191DB3E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496191.62389398</real>
+			<key>timeStoppedRecording</key>
+			<real>624496216.47677398</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>CD307D84-0115-4880-9929-D534191DB3E2</string>
+		</dict>
+		<key>DFCFEC35-EA38-449A-B0BA-4B40AE5E0BE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DFCFEC35-EA38-449A-B0BA-4B40AE5E0BE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624497054.40185702</real>
+			<key>timeStoppedRecording</key>
+			<real>624497065.72557998</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>DFCFEC35-EA38-449A-B0BA-4B40AE5E0BE6</string>
+		</dict>
+		<key>E5B193BB-A5DE-49F3-9DF5-9893B9A9534A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E5B193BB-A5DE-49F3-9DF5-9893B9A9534A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624497036.39709604</real>
+			<key>timeStoppedRecording</key>
+			<real>624497053.77009797</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>E5B193BB-A5DE-49F3-9DF5-9893B9A9534A</string>
+		</dict>
+		<key>F203AFE7-B267-4553-87C6-AFFA18CDC786</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F203AFE7-B267-4553-87C6-AFFA18CDC786.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496947.39225399</real>
+			<key>timeStoppedRecording</key>
+			<real>624497035.20055795</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>F203AFE7-B267-4553-87C6-AFFA18CDC786</string>
+		</dict>
+		<key>FD47CC8F-8A14-449D-97D3-F95B17339EE8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FD47CC8F-8A14-449D-97D3-F95B17339EE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624496696.13870502</real>
+			<key>timeStoppedRecording</key>
+			<real>624496748.752038</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>FD47CC8F-8A14-449D-97D3-F95B17339EE8</string>
+		</dict>
+		<key>FFC1DE3A-205A-409C-B53E-E8064AD9C773</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FFC1DE3A-205A-409C-B53E-E8064AD9C773.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mcquick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mcquick clip</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run mcquick clip</string>
+			<key>timeStartedRecording</key>
+			<real>624495912.91864204</real>
+			<key>timeStoppedRecording</key>
+			<real>624495962.57525802</real>
+			<key>title</key>
+			<string>Run mcquick clip</string>
+			<key>uniqueIdentifier</key>
+			<string>FFC1DE3A-205A-409C-B53E-E8064AD9C773</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

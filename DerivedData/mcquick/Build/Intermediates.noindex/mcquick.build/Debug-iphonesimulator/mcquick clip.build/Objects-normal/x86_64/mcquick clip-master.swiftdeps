@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "344779905b6a10078417757e1d12089c"
+build_time: [1602791748, 972822000]
+inputs:
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/BasketItemCell.swift": [1602789064, 166261503]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/MenuCell.swift": [1602750159, 451875018]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/ViewController.swift": [1602791748, 782469574]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/AppDelegate.swift": [1602719611, 791453337]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/iOSDevCenters+GIF.swift": [1507696027, 0]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/ProductCell.swift": [1602783565, 410348581]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/SceneDelegate.swift": [1602719611, 798299553]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick clip/BasketView.swift": [1602731128, 999659577]

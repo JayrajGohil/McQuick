@@ -1,0 +1,542 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ProductCell"
+provides-nominal:
+- "12mcquick_clip11ProductCellC"
+provides-member:
+- ["12mcquick_clip11ProductCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "configure"
+- "productCal"
+- "productHighlightView"
+- "productImage"
+- "productPrice"
+- "productTitle"
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "ProductCell"
+- "ProductModel"
+- !private "StringLiteralType"
+- "UICollectionViewCell"
+- "UIImageView"
+- "UILabel"
+- "UIView"
+- !private "UnicodeScalarType"
+- !private "productCal"
+- !private "productImage"
+- !private "productTitle"
+depends-member:
+- ["SK", ""]
+- ["So15CALayerDelegateP", "ProductModel"]
+- ["So15CALayerDelegateP", "UIImageView"]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", "UIView"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "awakeFromNib"]
+- ["So15CALayerDelegateP", "configure"]
+- !private ["So15CALayerDelegateP", "image"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "productCal"]
+- ["So15CALayerDelegateP", "productHighlightView"]
+- ["So15CALayerDelegateP", "productImage"]
+- ["So15CALayerDelegateP", "productPrice"]
+- ["So15CALayerDelegateP", "productTitle"]
+- !private ["So15CALayerDelegateP", "text"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "configure"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "productCal"]
+- !private ["s7CVarArgP", "productImage"]
+- !private ["s7CVarArgP", "productTitle"]
+- !private ["s7CVarArgP", "text"]
+- ["Sl", ""]
+- ["SL", ""]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "configure"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "productCal"]
+- !private ["s28CustomDebugStringConvertibleP", "productImage"]
+- !private ["s28CustomDebugStringConvertibleP", "productTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "text"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "configure"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "productCal"]
+- !private ["s23CustomStringConvertibleP", "productImage"]
+- !private ["s23CustomStringConvertibleP", "productTitle"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["Se", "image"]
+- !private ["Se", "text"]
+- !private ["SE", "image"]
+- !private ["SE", "text"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "configure"]
+- !private ["SQ", "image"]
+- !private ["SQ", "productCal"]
+- !private ["SQ", "productImage"]
+- !private ["SQ", "productTitle"]
+- !private ["SQ", "text"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "configure"]
+- !private ["SH", "image"]
+- !private ["SH", "productCal"]
+- !private ["SH", "productImage"]
+- !private ["SH", "productTitle"]
+- !private ["SH", "text"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "ProductModel"]
+- ["So8NSCodingP", "UIImageView"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", "UIView"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "awakeFromNib"]
+- ["So8NSCodingP", "configure"]
+- !private ["So8NSCodingP", "image"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "productCal"]
+- ["So8NSCodingP", "productHighlightView"]
+- ["So8NSCodingP", "productImage"]
+- ["So8NSCodingP", "productPrice"]
+- ["So8NSCodingP", "productTitle"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSObjectC", "ProductModel"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "configure"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "productCal"]
+- ["So8NSObjectC", "productHighlightView"]
+- ["So8NSObjectC", "productImage"]
+- ["So8NSObjectC", "productPrice"]
+- ["So8NSObjectC", "productTitle"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectP", "ProductModel"]
+- ["So8NSObjectP", "UIImageView"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "awakeFromNib"]
+- ["So8NSObjectP", "configure"]
+- !private ["So8NSObjectP", "image"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "productCal"]
+- ["So8NSObjectP", "productHighlightView"]
+- ["So8NSObjectP", "productImage"]
+- ["So8NSObjectP", "productPrice"]
+- ["So8NSObjectP", "productTitle"]
+- !private ["So8NSObjectP", "text"]
+- !private ["Sq", "image"]
+- !private ["Sq", "text"]
+- ["12mcquick_clip11ProductCellC", "ProductModel"]
+- ["12mcquick_clip11ProductCellC", "UIImageView"]
+- ["12mcquick_clip11ProductCellC", "UILabel"]
+- ["12mcquick_clip11ProductCellC", "UIView"]
+- ["12mcquick_clip11ProductCellC", ""]
+- ["12mcquick_clip11ProductCellC", "awakeFromNib"]
+- ["12mcquick_clip11ProductCellC", "configure"]
+- ["12mcquick_clip11ProductCellC", "deinit"]
+- ["12mcquick_clip11ProductCellC", "init"]
+- ["12mcquick_clip11ProductCellC", "productCal"]
+- ["12mcquick_clip11ProductCellC", "productHighlightView"]
+- ["12mcquick_clip11ProductCellC", "productImage"]
+- ["12mcquick_clip11ProductCellC", "productPrice"]
+- ["12mcquick_clip11ProductCellC", "productTitle"]
+- !private ["12mcquick_clip12ProductModelV", "calories"]
+- !private ["12mcquick_clip12ProductModelV", "image"]
+- !private ["12mcquick_clip12ProductModelV", "price"]
+- !private ["12mcquick_clip12ProductModelV", "title"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- ["So29UIAccessibilityIdentificationP", "ProductModel"]
+- ["So29UIAccessibilityIdentificationP", "UIImageView"]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", "UIView"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- ["So29UIAccessibilityIdentificationP", "configure"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "productCal"]
+- ["So29UIAccessibilityIdentificationP", "productHighlightView"]
+- ["So29UIAccessibilityIdentificationP", "productImage"]
+- ["So29UIAccessibilityIdentificationP", "productPrice"]
+- ["So29UIAccessibilityIdentificationP", "productTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- ["So12UIAppearanceP", "ProductModel"]
+- ["So12UIAppearanceP", "UIImageView"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", "UIView"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "awakeFromNib"]
+- ["So12UIAppearanceP", "configure"]
+- !private ["So12UIAppearanceP", "image"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "productCal"]
+- ["So12UIAppearanceP", "productHighlightView"]
+- ["So12UIAppearanceP", "productImage"]
+- ["So12UIAppearanceP", "productPrice"]
+- ["So12UIAppearanceP", "productTitle"]
+- !private ["So12UIAppearanceP", "text"]
+- ["So21UIAppearanceContainerP", "ProductModel"]
+- ["So21UIAppearanceContainerP", "UIImageView"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", "UIView"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "awakeFromNib"]
+- ["So21UIAppearanceContainerP", "configure"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "productCal"]
+- ["So21UIAppearanceContainerP", "productHighlightView"]
+- ["So21UIAppearanceContainerP", "productImage"]
+- ["So21UIAppearanceContainerP", "productPrice"]
+- ["So21UIAppearanceContainerP", "productTitle"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So24UICollectionReusableViewC", "ProductModel"]
+- ["So24UICollectionReusableViewC", "UIImageView"]
+- ["So24UICollectionReusableViewC", "UILabel"]
+- ["So24UICollectionReusableViewC", "UIView"]
+- ["So24UICollectionReusableViewC", ""]
+- ["So24UICollectionReusableViewC", "awakeFromNib"]
+- ["So24UICollectionReusableViewC", "configure"]
+- ["So24UICollectionReusableViewC", "init"]
+- ["So24UICollectionReusableViewC", "productCal"]
+- ["So24UICollectionReusableViewC", "productHighlightView"]
+- ["So24UICollectionReusableViewC", "productImage"]
+- ["So24UICollectionReusableViewC", "productPrice"]
+- ["So24UICollectionReusableViewC", "productTitle"]
+- ["So20UICollectionViewCellC", "ProductModel"]
+- ["So20UICollectionViewCellC", "UIImageView"]
+- ["So20UICollectionViewCellC", "UILabel"]
+- ["So20UICollectionViewCellC", "UIView"]
+- ["So20UICollectionViewCellC", ""]
+- ["So20UICollectionViewCellC", "awakeFromNib"]
+- ["So20UICollectionViewCellC", "configure"]
+- ["So20UICollectionViewCellC", "init"]
+- ["So20UICollectionViewCellC", "productCal"]
+- ["So20UICollectionViewCellC", "productHighlightView"]
+- ["So20UICollectionViewCellC", "productImage"]
+- ["So20UICollectionViewCellC", "productPrice"]
+- ["So20UICollectionViewCellC", "productTitle"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- ["So17UICoordinateSpaceP", "ProductModel"]
+- ["So17UICoordinateSpaceP", "UIImageView"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", "UIView"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "awakeFromNib"]
+- ["So17UICoordinateSpaceP", "configure"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "productCal"]
+- ["So17UICoordinateSpaceP", "productHighlightView"]
+- ["So17UICoordinateSpaceP", "productImage"]
+- ["So17UICoordinateSpaceP", "productPrice"]
+- ["So17UICoordinateSpaceP", "productTitle"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- ["So13UIDynamicItemP", "ProductModel"]
+- ["So13UIDynamicItemP", "UIImageView"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", "UIView"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "awakeFromNib"]
+- ["So13UIDynamicItemP", "configure"]
+- !private ["So13UIDynamicItemP", "image"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "productCal"]
+- ["So13UIDynamicItemP", "productHighlightView"]
+- ["So13UIDynamicItemP", "productImage"]
+- ["So13UIDynamicItemP", "productPrice"]
+- ["So13UIDynamicItemP", "productTitle"]
+- !private ["So13UIDynamicItemP", "text"]
+- ["So18UIFocusEnvironmentP", "ProductModel"]
+- ["So18UIFocusEnvironmentP", "UIImageView"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", "UIView"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- ["So18UIFocusEnvironmentP", "configure"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "productCal"]
+- ["So18UIFocusEnvironmentP", "productHighlightView"]
+- ["So18UIFocusEnvironmentP", "productImage"]
+- ["So18UIFocusEnvironmentP", "productPrice"]
+- ["So18UIFocusEnvironmentP", "productTitle"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So11UIFocusItemP", "ProductModel"]
+- ["So11UIFocusItemP", "UIImageView"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", "UIView"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "awakeFromNib"]
+- ["So11UIFocusItemP", "configure"]
+- !private ["So11UIFocusItemP", "image"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "productCal"]
+- ["So11UIFocusItemP", "productHighlightView"]
+- ["So11UIFocusItemP", "productImage"]
+- ["So11UIFocusItemP", "productPrice"]
+- ["So11UIFocusItemP", "productTitle"]
+- !private ["So11UIFocusItemP", "text"]
+- ["So20UIFocusItemContainerP", "ProductModel"]
+- ["So20UIFocusItemContainerP", "UIImageView"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", "UIView"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "awakeFromNib"]
+- ["So20UIFocusItemContainerP", "configure"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "productCal"]
+- ["So20UIFocusItemContainerP", "productHighlightView"]
+- ["So20UIFocusItemContainerP", "productImage"]
+- ["So20UIFocusItemContainerP", "productPrice"]
+- ["So20UIFocusItemContainerP", "productTitle"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So7UILabelC", "text"]
+- ["So24UILargeContentViewerItemP", "ProductModel"]
+- ["So24UILargeContentViewerItemP", "UIImageView"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", "UIView"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "awakeFromNib"]
+- ["So24UILargeContentViewerItemP", "configure"]
+- !private ["So24UILargeContentViewerItemP", "image"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "productCal"]
+- ["So24UILargeContentViewerItemP", "productHighlightView"]
+- ["So24UILargeContentViewerItemP", "productImage"]
+- ["So24UILargeContentViewerItemP", "productPrice"]
+- ["So24UILargeContentViewerItemP", "productTitle"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "ProductModel"]
+- ["So30UIPasteConfigurationSupportingP", "UIImageView"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", "UIView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- ["So30UIPasteConfigurationSupportingP", "configure"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "productCal"]
+- ["So30UIPasteConfigurationSupportingP", "productHighlightView"]
+- ["So30UIPasteConfigurationSupportingP", "productImage"]
+- ["So30UIPasteConfigurationSupportingP", "productPrice"]
+- ["So30UIPasteConfigurationSupportingP", "productTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So11UIResponderC", "ProductModel"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIView"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "configure"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "productCal"]
+- ["So11UIResponderC", "productHighlightView"]
+- ["So11UIResponderC", "productImage"]
+- ["So11UIResponderC", "productPrice"]
+- ["So11UIResponderC", "productTitle"]
+- !private ["So11UIResponderC", "text"]
+- ["So30UIResponderStandardEditActionsP", "ProductModel"]
+- ["So30UIResponderStandardEditActionsP", "UIImageView"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", "UIView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- ["So30UIResponderStandardEditActionsP", "configure"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "productCal"]
+- ["So30UIResponderStandardEditActionsP", "productHighlightView"]
+- ["So30UIResponderStandardEditActionsP", "productImage"]
+- ["So30UIResponderStandardEditActionsP", "productPrice"]
+- ["So30UIResponderStandardEditActionsP", "productTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So18UITraitEnvironmentP", "ProductModel"]
+- ["So18UITraitEnvironmentP", "UIImageView"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", "UIView"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "awakeFromNib"]
+- ["So18UITraitEnvironmentP", "configure"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "productCal"]
+- ["So18UITraitEnvironmentP", "productHighlightView"]
+- ["So18UITraitEnvironmentP", "productImage"]
+- ["So18UITraitEnvironmentP", "productPrice"]
+- ["So18UITraitEnvironmentP", "productTitle"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So23UIUserActivityRestoringP", "ProductModel"]
+- ["So23UIUserActivityRestoringP", "UIImageView"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", "UIView"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- ["So23UIUserActivityRestoringP", "configure"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "productCal"]
+- ["So23UIUserActivityRestoringP", "productHighlightView"]
+- ["So23UIUserActivityRestoringP", "productImage"]
+- ["So23UIUserActivityRestoringP", "productPrice"]
+- ["So23UIUserActivityRestoringP", "productTitle"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So6UIViewC", "ProductModel"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "UIView"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "configure"]
+- !private ["So6UIViewC", "image"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "productCal"]
+- ["So6UIViewC", "productHighlightView"]
+- ["So6UIViewC", "productImage"]
+- ["So6UIViewC", "productPrice"]
+- ["So6UIViewC", "productTitle"]
+- !private ["So6UIViewC", "text"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configure"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "productCal"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "productImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "productTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "awakeFromNib"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "configure"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "productCal"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "productImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "productTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "configure"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "productCal"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "productImage"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "productTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- "SK"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "12mcquick_clip11ProductCellC"
+- !private "12mcquick_clip12ProductModelV"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- !private "So7UILabelC"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b30db1708d6e14d17ef4f26003e2115a"

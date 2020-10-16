@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE5ACC2F2537C6FB001BD626 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC2E2537C6FB001BD626 /* AppDelegate.swift */; };
+		DE5ACC312537C6FB001BD626 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC302537C6FB001BD626 /* SceneDelegate.swift */; };
+		DE5ACC332537C6FB001BD626 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC322537C6FB001BD626 /* ViewController.swift */; };
+		DE5ACC362537C6FB001BD626 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC342537C6FB001BD626 /* Main.storyboard */; };
+		DE5ACC382537C6FD001BD626 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC372537C6FD001BD626 /* Assets.xcassets */; };
+		DE5ACC3B2537C6FD001BD626 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC392537C6FD001BD626 /* LaunchScreen.storyboard */; };
+		DE5ACC402537C6FD001BD626 /* mcquick clip.app in Embed App Clips */ = {isa = PBXBuildFile; fileRef = DE5ACC2C2537C6FB001BD626 /* mcquick clip.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		DE5ACC4B2537CA90001BD626 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC4A2537CA90001BD626 /* ProductCell.swift */; };
+		DE5ACC552537CB2D001BD626 /* ProductCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC542537CB2D001BD626 /* ProductCell.xib */; };
+		DE5ACC672537F230001BD626 /* BasketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC662537F230001BD626 /* BasketView.swift */; };
+		DE5ACC6B2537F251001BD626 /* BasketView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC6A2537F251001BD626 /* BasketView.xib */; };
+		DE5ACC7025382EAA001BD626 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC6E25382EAA001BD626 /* MenuCell.swift */; };
+		DE5ACC7125382EAA001BD626 /* MenuCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC6F25382EAA001BD626 /* MenuCell.xib */; };
+		DE5ACC7B2538BBEA001BD626 /* giphy.gif in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC7A2538BBEA001BD626 /* giphy.gif */; };
+		DE5ACC7F2538BD39001BD626 /* iOSDevCenters+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC7E2538BD39001BD626 /* iOSDevCenters+GIF.swift */; };
+		DE5ACC8C2538DB67001BD626 /* BasketItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5ACC8A2538DB65001BD626 /* BasketItemCell.swift */; };
+		DE5ACC8D2538DB67001BD626 /* BasketItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE5ACC8B2538DB67001BD626 /* BasketItemCell.xib */; };
 		DEAAFC47253618BF00FE7FA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEAAFC46253618BF00FE7FA6 /* AppDelegate.swift */; };
 		DEAAFC49253618BF00FE7FA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEAAFC48253618BF00FE7FA6 /* SceneDelegate.swift */; };
 		DEAAFC4B253618BF00FE7FA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEAAFC4A253618BF00FE7FA6 /* ViewController.swift */; };
@@ -15,7 +32,50 @@
 		DEAAFC53253618C000FE7FA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEAAFC51253618C000FE7FA6 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		DE5ACC3E2537C6FD001BD626 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DEAAFC3B253618BF00FE7FA6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DE5ACC2B2537C6FB001BD626;
+			remoteInfo = "mcquick clip";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DEAAFC77253618E300FE7FA6 /* Embed App Clips */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/AppClips";
+			dstSubfolderSpec = 16;
+			files = (
+				DE5ACC402537C6FD001BD626 /* mcquick clip.app in Embed App Clips */,
+			);
+			name = "Embed App Clips";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		DE5ACC2C2537C6FB001BD626 /* mcquick clip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mcquick clip.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE5ACC2E2537C6FB001BD626 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DE5ACC302537C6FB001BD626 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		DE5ACC322537C6FB001BD626 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DE5ACC352537C6FB001BD626 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DE5ACC372537C6FD001BD626 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DE5ACC3A2537C6FD001BD626 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DE5ACC3C2537C6FD001BD626 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE5ACC3D2537C6FD001BD626 /* mcquick_clip.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = mcquick_clip.entitlements; sourceTree = "<group>"; };
+		DE5ACC4A2537CA90001BD626 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
+		DE5ACC542537CB2D001BD626 /* ProductCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductCell.xib; sourceTree = "<group>"; };
+		DE5ACC662537F230001BD626 /* BasketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketView.swift; sourceTree = "<group>"; };
+		DE5ACC6A2537F251001BD626 /* BasketView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BasketView.xib; sourceTree = "<group>"; };
+		DE5ACC6E25382EAA001BD626 /* MenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
+		DE5ACC6F25382EAA001BD626 /* MenuCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MenuCell.xib; sourceTree = "<group>"; };
+		DE5ACC7A2538BBEA001BD626 /* giphy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = giphy.gif; sourceTree = "<group>"; };
+		DE5ACC7E2538BD39001BD626 /* iOSDevCenters+GIF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "iOSDevCenters+GIF.swift"; sourceTree = "<group>"; };
+		DE5ACC8A2538DB65001BD626 /* BasketItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasketItemCell.swift; sourceTree = "<group>"; };
+		DE5ACC8B2538DB67001BD626 /* BasketItemCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BasketItemCell.xib; sourceTree = "<group>"; };
 		DEAAFC43253618BF00FE7FA6 /* mcquick.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mcquick.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEAAFC46253618BF00FE7FA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEAAFC48253618BF00FE7FA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,9 +84,17 @@
 		DEAAFC4F253618C000FE7FA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DEAAFC52253618C000FE7FA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DEAAFC54253618C000FE7FA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DEAAFC68253618E100FE7FA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/cMain.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		DE5ACC292537C6FB001BD626 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEAAFC40253618BF00FE7FA6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -37,10 +105,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DE5ACC2D2537C6FB001BD626 /* mcquick clip */ = {
+			isa = PBXGroup;
+			children = (
+				DE5ACC7E2538BD39001BD626 /* iOSDevCenters+GIF.swift */,
+				DE5ACC7A2538BBEA001BD626 /* giphy.gif */,
+				DE5ACC2E2537C6FB001BD626 /* AppDelegate.swift */,
+				DE5ACC302537C6FB001BD626 /* SceneDelegate.swift */,
+				DE5ACC322537C6FB001BD626 /* ViewController.swift */,
+				DE5ACC342537C6FB001BD626 /* Main.storyboard */,
+				DE5ACC372537C6FD001BD626 /* Assets.xcassets */,
+				DE5ACC392537C6FD001BD626 /* LaunchScreen.storyboard */,
+				DE5ACC3C2537C6FD001BD626 /* Info.plist */,
+				DE5ACC3D2537C6FD001BD626 /* mcquick_clip.entitlements */,
+				DE5ACC4A2537CA90001BD626 /* ProductCell.swift */,
+				DE5ACC542537CB2D001BD626 /* ProductCell.xib */,
+				DE5ACC6E25382EAA001BD626 /* MenuCell.swift */,
+				DE5ACC6F25382EAA001BD626 /* MenuCell.xib */,
+				DE5ACC662537F230001BD626 /* BasketView.swift */,
+				DE5ACC6A2537F251001BD626 /* BasketView.xib */,
+				DE5ACC8A2538DB65001BD626 /* BasketItemCell.swift */,
+				DE5ACC8B2538DB67001BD626 /* BasketItemCell.xib */,
+			);
+			path = "mcquick clip";
+			sourceTree = "<group>";
+		};
 		DEAAFC3A253618BF00FE7FA6 = {
 			isa = PBXGroup;
 			children = (
 				DEAAFC45253618BF00FE7FA6 /* mcquick */,
+				DE5ACC2D2537C6FB001BD626 /* mcquick clip */,
 				DEAAFC44253618BF00FE7FA6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,6 +143,7 @@
 			isa = PBXGroup;
 			children = (
 				DEAAFC43253618BF00FE7FA6 /* mcquick.app */,
+				DE5ACC2C2537C6FB001BD626 /* mcquick clip.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,6 +158,7 @@
 				DEAAFC4F253618C000FE7FA6 /* Assets.xcassets */,
 				DEAAFC51253618C000FE7FA6 /* LaunchScreen.storyboard */,
 				DEAAFC54253618C000FE7FA6 /* Info.plist */,
+				DEAAFC67253618E100FE7FA6 /* cMain.storyboard */,
 			);
 			path = mcquick;
 			sourceTree = "<group>";
@@ -70,6 +166,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		DE5ACC2B2537C6FB001BD626 /* mcquick clip */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE5ACC412537C6FD001BD626 /* Build configuration list for PBXNativeTarget "mcquick clip" */;
+			buildPhases = (
+				DE5ACC282537C6FB001BD626 /* Sources */,
+				DE5ACC292537C6FB001BD626 /* Frameworks */,
+				DE5ACC2A2537C6FB001BD626 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "mcquick clip";
+			productName = "mcquick clip";
+			productReference = DE5ACC2C2537C6FB001BD626 /* mcquick clip.app */;
+			productType = "com.apple.product-type.application.on-demand-install-capable";
+		};
 		DEAAFC42253618BF00FE7FA6 /* mcquick */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = DEAAFC57253618C000FE7FA6 /* Build configuration list for PBXNativeTarget "mcquick" */;
@@ -77,10 +190,12 @@
 				DEAAFC3F253618BF00FE7FA6 /* Sources */,
 				DEAAFC40253618BF00FE7FA6 /* Frameworks */,
 				DEAAFC41253618BF00FE7FA6 /* Resources */,
+				DEAAFC77253618E300FE7FA6 /* Embed App Clips */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				DE5ACC3F2537C6FD001BD626 /* PBXTargetDependency */,
 			);
 			name = mcquick;
 			productName = mcquick;
@@ -96,6 +211,9 @@
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
+					DE5ACC2B2537C6FB001BD626 = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
 					DEAAFC42253618BF00FE7FA6 = {
 						CreatedOnToolsVersion = 12.0.1;
 					};
@@ -115,11 +233,27 @@
 			projectRoot = "";
 			targets = (
 				DEAAFC42253618BF00FE7FA6 /* mcquick */,
+				DE5ACC2B2537C6FB001BD626 /* mcquick clip */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		DE5ACC2A2537C6FB001BD626 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE5ACC7B2538BBEA001BD626 /* giphy.gif in Resources */,
+				DE5ACC7125382EAA001BD626 /* MenuCell.xib in Resources */,
+				DE5ACC6B2537F251001BD626 /* BasketView.xib in Resources */,
+				DE5ACC3B2537C6FD001BD626 /* LaunchScreen.storyboard in Resources */,
+				DE5ACC8D2538DB67001BD626 /* BasketItemCell.xib in Resources */,
+				DE5ACC552537CB2D001BD626 /* ProductCell.xib in Resources */,
+				DE5ACC382537C6FD001BD626 /* Assets.xcassets in Resources */,
+				DE5ACC362537C6FB001BD626 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEAAFC41253618BF00FE7FA6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -133,6 +267,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		DE5ACC282537C6FB001BD626 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE5ACC8C2538DB67001BD626 /* BasketItemCell.swift in Sources */,
+				DE5ACC7025382EAA001BD626 /* MenuCell.swift in Sources */,
+				DE5ACC332537C6FB001BD626 /* ViewController.swift in Sources */,
+				DE5ACC2F2537C6FB001BD626 /* AppDelegate.swift in Sources */,
+				DE5ACC7F2538BD39001BD626 /* iOSDevCenters+GIF.swift in Sources */,
+				DE5ACC4B2537CA90001BD626 /* ProductCell.swift in Sources */,
+				DE5ACC312537C6FB001BD626 /* SceneDelegate.swift in Sources */,
+				DE5ACC672537F230001BD626 /* BasketView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DEAAFC3F253618BF00FE7FA6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -145,7 +294,31 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		DE5ACC3F2537C6FD001BD626 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DE5ACC2B2537C6FB001BD626 /* mcquick clip */;
+			targetProxy = DE5ACC3E2537C6FD001BD626 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin PBXVariantGroup section */
+		DE5ACC342537C6FB001BD626 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DE5ACC352537C6FB001BD626 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DE5ACC392537C6FD001BD626 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DE5ACC3A2537C6FD001BD626 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 		DEAAFC4C253618BF00FE7FA6 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -162,9 +335,61 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		DEAAFC67253618E100FE7FA6 /* cMain.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DEAAFC68253618E100FE7FA6 /* Base */,
+			);
+			name = cMain.storyboard;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		DE5ACC422537C6FD001BD626 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "mcquick clip/mcquick_clip.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = T7YPQ6432N;
+				INFOPLIST_FILE = "mcquick clip/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.burgerhack.mcquick.McQuick;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "Hacker Main App Dev Profile";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DE5ACC432537C6FD001BD626 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "mcquick clip/mcquick_clip.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = T7YPQ6432N;
+				INFOPLIST_FILE = "mcquick clip/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.burgerhack.mcquick.McQuick;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "Hacker Main App Dev Profile";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		DEAAFC55253618C000FE7FA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -284,9 +509,12 @@
 		DEAAFC58253618C000FE7FA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = T7YPQ6432N;
 				INFOPLIST_FILE = mcquick/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -294,6 +522,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.burgerhack.mcquick;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "Hacker AppClips App Dev Profile";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -302,9 +531,12 @@
 		DEAAFC59253618C000FE7FA6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = T7YPQ6432N;
 				INFOPLIST_FILE = mcquick/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -312,6 +544,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.burgerhack.mcquick;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "Hacker AppClips App Dev Profile";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -320,6 +553,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		DE5ACC412537C6FD001BD626 /* Build configuration list for PBXNativeTarget "mcquick clip" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE5ACC422537C6FD001BD626 /* Debug */,
+				DE5ACC432537C6FD001BD626 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		DEAAFC3E253618BF00FE7FA6 /* Build configuration list for PBXProject "mcquick" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

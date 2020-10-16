@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BasketItemCell" id="gTV-IL-0wX" customClass="BasketItemCell" customModule="mcquick_clip" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="100"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="100"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Yme-al-7do">
+                        <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="100" id="pOn-a1-vab"/>
+                            <constraint firstAttribute="width" constant="100" id="qfG-DZ-U4b"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Big Mac" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e0e-Po-fiY">
+                        <rect key="frame" x="108" y="12" width="204" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="o7x-S6-JlX"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$0.0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hYY-BO-naR">
+                        <rect key="frame" x="212" y="70" width="100" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="100" id="ZYV-6K-V4X"/>
+                            <constraint firstAttribute="height" constant="21" id="bFF-rT-xyQ"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0 Cal." textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Ba-X7-X0Y">
+                        <rect key="frame" x="212" y="41" width="100" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="100" id="EFz-zj-Ah6"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="e0e-Po-fiY" firstAttribute="leading" secondItem="Yme-al-7do" secondAttribute="trailing" constant="8" id="8X3-Xh-krr"/>
+                <constraint firstItem="e0e-Po-fiY" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="12" id="9Wz-a0-KFH"/>
+                <constraint firstAttribute="trailing" secondItem="e0e-Po-fiY" secondAttribute="trailing" constant="8" id="9wc-lb-Ui4"/>
+                <constraint firstAttribute="trailing" secondItem="3Ba-X7-X0Y" secondAttribute="trailing" constant="8" id="A7X-6U-1F5"/>
+                <constraint firstItem="Yme-al-7do" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="CRq-ec-fk9"/>
+                <constraint firstItem="3Ba-X7-X0Y" firstAttribute="top" secondItem="e0e-Po-fiY" secondAttribute="bottom" constant="8" id="mR2-1n-qqB"/>
+                <constraint firstAttribute="trailing" secondItem="hYY-BO-naR" secondAttribute="trailing" constant="8" id="mff-Kn-FAH"/>
+                <constraint firstItem="Yme-al-7do" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="orC-Ng-33O"/>
+                <constraint firstAttribute="bottom" secondItem="Yme-al-7do" secondAttribute="bottom" id="rBf-H2-Vnr"/>
+                <constraint firstAttribute="bottom" secondItem="hYY-BO-naR" secondAttribute="bottom" constant="9" id="u1f-oh-PyV"/>
+            </constraints>
+            <connections>
+                <outlet property="productCal" destination="3Ba-X7-X0Y" id="0GL-Ux-gHk"/>
+                <outlet property="productImage" destination="Yme-al-7do" id="jg2-F3-rbQ"/>
+                <outlet property="productPrice" destination="hYY-BO-naR" id="6xj-SO-NdQ"/>
+                <outlet property="productTitle" destination="e0e-Po-fiY" id="hG1-mv-6NS"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="69.642857142857139"/>
+        </collectionViewCell>
+    </objects>
+</document>

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "aa910a94c41b09f4a8d371fbd1689e6c"
+build_time: [1602609473, 937086000]
+inputs:
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick/ViewController.swift": [1602609471, 50944985]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick/AppDelegate.swift": [1602609471, 45078066]
+  "/Users/jaygohil/Documents/BurgerHack2020/mcquick/mcquick/SceneDelegate.swift": [1602609471, 48470844]

@@ -1,0 +1,513 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ItemsViewControllerCollectionViewController"
+provides-nominal:
+- "12mcquick_clip029ItemsViewControllerCollectiondE0C"
+provides-member:
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", ""]
+provides-dynamic-lookup:
+- "collectionView"
+- "numberOfSections"
+- "viewDidLoad"
+depends-top-level:
+- "FloatLiteralType"
+- "IndexPath"
+- "Int"
+- !private "IntegerLiteralType"
+- "ItemsViewControllerCollectionViewController"
+- "StringLiteralType"
+- "UICollectionView"
+- "UICollectionViewCell"
+- "UICollectionViewController"
+- "UIEdgeInsets"
+- !private "reuseIdentifier"
+- !private "sectionInsets"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- ["SK", ""]
+- !private ["So15CALayerDelegateP", "dequeueReusableCell"]
+- !private ["So15CALayerDelegateP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So15CALayerDelegateP", "register"]
+- !private ["So15CALayerDelegateP", "registerClass"]
+- !private ["So15CALayerDelegateP", "registerNib"]
+- !private ["s7CVarArgP", "UICollectionViewCell"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "collectionView"]
+- !private ["s7CVarArgP", "dequeueReusableCell"]
+- !private ["s7CVarArgP", "register"]
+- !private ["s7CVarArgP", "reuseIdentifier"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "UICollectionViewCell"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "collectionView"]
+- !private ["s28CustomDebugStringConvertibleP", "dequeueReusableCell"]
+- !private ["s28CustomDebugStringConvertibleP", "register"]
+- !private ["s28CustomDebugStringConvertibleP", "reuseIdentifier"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "UICollectionViewCell"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "collectionView"]
+- !private ["s23CustomStringConvertibleP", "dequeueReusableCell"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["s23CustomStringConvertibleP", "reuseIdentifier"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["Se", "init"]
+- ["SE", "init"]
+- !private ["SQ", "UICollectionViewCell"]
+- ["SQ", ""]
+- !private ["SQ", "collectionView"]
+- !private ["SQ", "dequeueReusableCell"]
+- ["SQ", "init"]
+- !private ["SQ", "register"]
+- !private ["SQ", "reuseIdentifier"]
+- !private ["SQ", "viewDidLoad"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s25ExpressibleByFloatLiteralP", "FloatLiteralType"]
+- !private ["s25ExpressibleByFloatLiteralP", ""]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SF", ""]
+- !private ["SH", "UICollectionViewCell"]
+- ["SH", ""]
+- !private ["SH", "collectionView"]
+- !private ["SH", "dequeueReusableCell"]
+- !private ["SH", "register"]
+- !private ["SH", "reuseIdentifier"]
+- !private ["SH", "viewDidLoad"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "IndexPath"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "Int"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "UICollectionView"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "UICollectionViewCell"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", ""]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "collectionView"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "deinit"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "init"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "numberOfSections"]
+- !private ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "reuseIdentifier"]
+- ["12mcquick_clip029ItemsViewControllerCollectiondE0C", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "IndexPath"]
+- ["So8NSCodingP", "Int"]
+- ["So8NSCodingP", "UICollectionView"]
+- ["So8NSCodingP", "UICollectionViewCell"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "collectionView"]
+- !private ["So8NSCodingP", "dequeueReusableCell"]
+- !private ["So8NSCodingP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "numberOfSections"]
+- !private ["So8NSCodingP", "register"]
+- !private ["So8NSCodingP", "registerClass"]
+- !private ["So8NSCodingP", "registerNib"]
+- !private ["So8NSCodingP", "reuseIdentifier"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "IndexPath"]
+- ["So26NSExtensionRequestHandlingP", "Int"]
+- ["So26NSExtensionRequestHandlingP", "UICollectionView"]
+- ["So26NSExtensionRequestHandlingP", "UICollectionViewCell"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "collectionView"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "numberOfSections"]
+- !private ["So26NSExtensionRequestHandlingP", "reuseIdentifier"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "UICollectionView"]
+- ["So8NSObjectC", "UICollectionViewCell"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "collectionView"]
+- !private ["So8NSObjectC", "dequeueReusableCell"]
+- !private ["So8NSObjectC", "dequeueReusableCellWithReuseIdentifier"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "numberOfSections"]
+- !private ["So8NSObjectC", "register"]
+- !private ["So8NSObjectC", "registerClass"]
+- !private ["So8NSObjectC", "registerNib"]
+- !private ["So8NSObjectC", "reuseIdentifier"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "IndexPath"]
+- ["So8NSObjectP", "Int"]
+- ["So8NSObjectP", "UICollectionView"]
+- ["So8NSObjectP", "UICollectionViewCell"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "collectionView"]
+- !private ["So8NSObjectP", "dequeueReusableCell"]
+- !private ["So8NSObjectP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "numberOfSections"]
+- !private ["So8NSObjectP", "register"]
+- !private ["So8NSObjectP", "registerClass"]
+- !private ["So8NSObjectP", "registerNib"]
+- !private ["So8NSObjectP", "reuseIdentifier"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sj", ""]
+- ["ST", ""]
+- !private ["s13SignedNumericP", ""]
+- !private ["Sx", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So29UIAccessibilityIdentificationP", "register"]
+- !private ["So29UIAccessibilityIdentificationP", "registerClass"]
+- !private ["So29UIAccessibilityIdentificationP", "registerNib"]
+- !private ["So12UIAppearanceP", "dequeueReusableCell"]
+- !private ["So12UIAppearanceP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So12UIAppearanceP", "register"]
+- !private ["So12UIAppearanceP", "registerClass"]
+- !private ["So12UIAppearanceP", "registerNib"]
+- ["So21UIAppearanceContainerP", "IndexPath"]
+- ["So21UIAppearanceContainerP", "Int"]
+- ["So21UIAppearanceContainerP", "UICollectionView"]
+- ["So21UIAppearanceContainerP", "UICollectionViewCell"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "collectionView"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCell"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "numberOfSections"]
+- !private ["So21UIAppearanceContainerP", "register"]
+- !private ["So21UIAppearanceContainerP", "registerClass"]
+- !private ["So21UIAppearanceContainerP", "registerNib"]
+- !private ["So21UIAppearanceContainerP", "reuseIdentifier"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So16UICollectionViewC", "dequeueReusableCell"]
+- !private ["So16UICollectionViewC", "register"]
+- ["So26UICollectionViewControllerC", "IndexPath"]
+- ["So26UICollectionViewControllerC", "Int"]
+- ["So26UICollectionViewControllerC", "UICollectionView"]
+- ["So26UICollectionViewControllerC", "UICollectionViewCell"]
+- ["So26UICollectionViewControllerC", ""]
+- ["So26UICollectionViewControllerC", "collectionView"]
+- ["So26UICollectionViewControllerC", "init"]
+- ["So26UICollectionViewControllerC", "numberOfSections"]
+- !private ["So26UICollectionViewControllerC", "reuseIdentifier"]
+- ["So26UICollectionViewControllerC", "viewDidLoad"]
+- ["So26UICollectionViewDataSourceP", "IndexPath"]
+- ["So26UICollectionViewDataSourceP", "Int"]
+- ["So26UICollectionViewDataSourceP", "UICollectionView"]
+- ["So26UICollectionViewDataSourceP", "UICollectionViewCell"]
+- ["So26UICollectionViewDataSourceP", ""]
+- ["So26UICollectionViewDataSourceP", "collectionView"]
+- ["So26UICollectionViewDataSourceP", "init"]
+- ["So26UICollectionViewDataSourceP", "numberOfSections"]
+- !private ["So26UICollectionViewDataSourceP", "reuseIdentifier"]
+- ["So26UICollectionViewDataSourceP", "viewDidLoad"]
+- ["So24UICollectionViewDelegateP", "IndexPath"]
+- ["So24UICollectionViewDelegateP", "Int"]
+- ["So24UICollectionViewDelegateP", "UICollectionView"]
+- ["So24UICollectionViewDelegateP", "UICollectionViewCell"]
+- ["So24UICollectionViewDelegateP", ""]
+- ["So24UICollectionViewDelegateP", "collectionView"]
+- ["So24UICollectionViewDelegateP", "init"]
+- ["So24UICollectionViewDelegateP", "numberOfSections"]
+- !private ["So24UICollectionViewDelegateP", "reuseIdentifier"]
+- ["So24UICollectionViewDelegateP", "viewDidLoad"]
+- ["So18UIContentContainerP", "IndexPath"]
+- ["So18UIContentContainerP", "Int"]
+- ["So18UIContentContainerP", "UICollectionView"]
+- ["So18UIContentContainerP", "UICollectionViewCell"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "collectionView"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "numberOfSections"]
+- !private ["So18UIContentContainerP", "reuseIdentifier"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- ["So33UIContextMenuInteractionAnimatingP", ""]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So17UICoordinateSpaceP", "register"]
+- !private ["So17UICoordinateSpaceP", "registerClass"]
+- !private ["So17UICoordinateSpaceP", "registerNib"]
+- !private ["So23UIDataSourceTranslatingP", "dequeueReusableCell"]
+- !private ["So23UIDataSourceTranslatingP", "register"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So13UIDynamicItemP", "register"]
+- !private ["So13UIDynamicItemP", "registerClass"]
+- !private ["So13UIDynamicItemP", "registerNib"]
+- ["So12UIEdgeInsetsV", "init"]
+- ["So18UIFocusEnvironmentP", "IndexPath"]
+- ["So18UIFocusEnvironmentP", "Int"]
+- ["So18UIFocusEnvironmentP", "UICollectionView"]
+- ["So18UIFocusEnvironmentP", "UICollectionViewCell"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "collectionView"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "numberOfSections"]
+- !private ["So18UIFocusEnvironmentP", "register"]
+- !private ["So18UIFocusEnvironmentP", "registerClass"]
+- !private ["So18UIFocusEnvironmentP", "registerNib"]
+- !private ["So18UIFocusEnvironmentP", "reuseIdentifier"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "dequeueReusableCell"]
+- !private ["So11UIFocusItemP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So11UIFocusItemP", "register"]
+- !private ["So11UIFocusItemP", "registerClass"]
+- !private ["So11UIFocusItemP", "registerNib"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "dequeueReusableCell"]
+- !private ["So20UIFocusItemContainerP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So20UIFocusItemContainerP", "register"]
+- !private ["So20UIFocusItemContainerP", "registerClass"]
+- !private ["So20UIFocusItemContainerP", "registerNib"]
+- !private ["So30UIFocusItemScrollableContainerP", "dequeueReusableCell"]
+- !private ["So30UIFocusItemScrollableContainerP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So30UIFocusItemScrollableContainerP", "register"]
+- !private ["So30UIFocusItemScrollableContainerP", "registerClass"]
+- !private ["So30UIFocusItemScrollableContainerP", "registerNib"]
+- !private ["So24UILargeContentViewerItemP", "dequeueReusableCell"]
+- !private ["So24UILargeContentViewerItemP", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So24UILargeContentViewerItemP", "register"]
+- !private ["So24UILargeContentViewerItemP", "registerClass"]
+- !private ["So24UILargeContentViewerItemP", "registerNib"]
+- ["So30UIPasteConfigurationSupportingP", "IndexPath"]
+- ["So30UIPasteConfigurationSupportingP", "Int"]
+- ["So30UIPasteConfigurationSupportingP", "UICollectionView"]
+- ["So30UIPasteConfigurationSupportingP", "UICollectionViewCell"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "collectionView"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "numberOfSections"]
+- !private ["So30UIPasteConfigurationSupportingP", "register"]
+- !private ["So30UIPasteConfigurationSupportingP", "registerClass"]
+- !private ["So30UIPasteConfigurationSupportingP", "registerNib"]
+- !private ["So30UIPasteConfigurationSupportingP", "reuseIdentifier"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "IndexPath"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "UICollectionView"]
+- ["So11UIResponderC", "UICollectionViewCell"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "collectionView"]
+- !private ["So11UIResponderC", "dequeueReusableCell"]
+- !private ["So11UIResponderC", "dequeueReusableCellWithReuseIdentifier"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "numberOfSections"]
+- !private ["So11UIResponderC", "register"]
+- !private ["So11UIResponderC", "registerClass"]
+- !private ["So11UIResponderC", "registerNib"]
+- !private ["So11UIResponderC", "reuseIdentifier"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "IndexPath"]
+- ["So30UIResponderStandardEditActionsP", "Int"]
+- ["So30UIResponderStandardEditActionsP", "UICollectionView"]
+- ["So30UIResponderStandardEditActionsP", "UICollectionViewCell"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "collectionView"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCell"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "numberOfSections"]
+- !private ["So30UIResponderStandardEditActionsP", "register"]
+- !private ["So30UIResponderStandardEditActionsP", "registerClass"]
+- !private ["So30UIResponderStandardEditActionsP", "registerNib"]
+- !private ["So30UIResponderStandardEditActionsP", "reuseIdentifier"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So12UIScrollViewC", ""]
+- !private ["So12UIScrollViewC", "dequeueReusableCell"]
+- !private ["So12UIScrollViewC", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So12UIScrollViewC", "register"]
+- !private ["So12UIScrollViewC", "registerClass"]
+- !private ["So12UIScrollViewC", "registerNib"]
+- ["So20UIScrollViewDelegateP", "IndexPath"]
+- ["So20UIScrollViewDelegateP", "Int"]
+- ["So20UIScrollViewDelegateP", "UICollectionView"]
+- ["So20UIScrollViewDelegateP", "UICollectionViewCell"]
+- ["So20UIScrollViewDelegateP", ""]
+- ["So20UIScrollViewDelegateP", "collectionView"]
+- ["So20UIScrollViewDelegateP", "init"]
+- ["So20UIScrollViewDelegateP", "numberOfSections"]
+- !private ["So20UIScrollViewDelegateP", "reuseIdentifier"]
+- ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dequeueReusableCell"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "register"]
+- ["So16UIStateRestoringP", "IndexPath"]
+- ["So16UIStateRestoringP", "Int"]
+- ["So16UIStateRestoringP", "UICollectionView"]
+- ["So16UIStateRestoringP", "UICollectionViewCell"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "collectionView"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "numberOfSections"]
+- !private ["So16UIStateRestoringP", "reuseIdentifier"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "IndexPath"]
+- ["So18UITraitEnvironmentP", "Int"]
+- ["So18UITraitEnvironmentP", "UICollectionView"]
+- ["So18UITraitEnvironmentP", "UICollectionViewCell"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "collectionView"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "numberOfSections"]
+- !private ["So18UITraitEnvironmentP", "register"]
+- !private ["So18UITraitEnvironmentP", "registerClass"]
+- !private ["So18UITraitEnvironmentP", "registerNib"]
+- !private ["So18UITraitEnvironmentP", "reuseIdentifier"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "IndexPath"]
+- ["So23UIUserActivityRestoringP", "Int"]
+- ["So23UIUserActivityRestoringP", "UICollectionView"]
+- ["So23UIUserActivityRestoringP", "UICollectionViewCell"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "collectionView"]
+- !private ["So23UIUserActivityRestoringP", "dequeueReusableCell"]
+- !private ["So23UIUserActivityRestoringP", "dequeueReusableCellWithReuseIdentifier"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "numberOfSections"]
+- !private ["So23UIUserActivityRestoringP", "register"]
+- !private ["So23UIUserActivityRestoringP", "registerClass"]
+- !private ["So23UIUserActivityRestoringP", "registerNib"]
+- !private ["So23UIUserActivityRestoringP", "reuseIdentifier"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "dequeueReusableCell"]
+- !private ["So6UIViewC", "dequeueReusableCellWithReuseIdentifier"]
+- !private ["So6UIViewC", "register"]
+- !private ["So6UIViewC", "registerClass"]
+- !private ["So6UIViewC", "registerNib"]
+- ["So16UIViewControllerC", "IndexPath"]
+- ["So16UIViewControllerC", "Int"]
+- ["So16UIViewControllerC", "UICollectionView"]
+- ["So16UIViewControllerC", "UICollectionViewCell"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "collectionView"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "numberOfSections"]
+- !private ["So16UIViewControllerC", "reuseIdentifier"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UICollectionViewCell"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "collectionView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dequeueReusableCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reuseIdentifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UICollectionViewCell"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "collectionView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dequeueReusableCell"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "register"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "reuseIdentifier"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "register"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- "SH"
+- "12mcquick_clip029ItemsViewControllerCollectiondE0C"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sj"
+- "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So16UICollectionViewC"
+- "So26UICollectionViewControllerC"
+- "So26UICollectionViewDataSourceP"
+- "So24UICollectionViewDelegateP"
+- "So18UIContentContainerP"
+- "So33UIContextMenuInteractionAnimatingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- !private "So13UIDynamicItemP"
+- "So12UIEdgeInsetsV"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/jaygohil/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "617e73c744f76d701844f08eecb026c8"
